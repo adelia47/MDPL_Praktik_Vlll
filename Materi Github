@@ -6,3 +6,10 @@ Gampangnya, GitHub merupakan manajemen project, sistem versioning code, sekaligu
 Sebelum banyak membahas mengenai GitHub, perlu kamu ketahui bahwa GitHub sendiri memiliki versi induknya, yaitu “git”. Git sendiri adalah sebuah software VCS (Version Controlled System) yang dilakukan secara offline.
 
 GitHub juga memberikan layanan cloud untuk menyimpan dan mengelola project/repository git. Karena bersifat online, kita meng-edit sebuah repository/project secara bersamaan dengan orang lain di tempat yang berbeda. Oleh karena itu, platform ini sangat membantu tim project dalam menyusun suatu folder yang berisikan files terkait pemrograman.
+Istilah dalam GIT:
+- repository
+- branch
+- master
+- head
+- hash
+- commit
